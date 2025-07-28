@@ -1,6 +1,5 @@
 # Feature
 
-
 Tool to help users find Anoma Testnet invitation code
 
 
